@@ -127,6 +127,10 @@ body{
     border-radius: 20px;
 }
 
+#musicButton:hover{
+    content: "yes this is where you play music i like";
+}
+
 #music{
     position: absolute;
     left: 50%;
