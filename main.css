@@ -116,7 +116,7 @@ body{
 }
 
 #stopMusic:hover{
-    text.content = "YES YOU STOP HERE ITS VERY CLEAR"
+    content:"YES YOU STOP THE MUSIC HERE ITS CLEAR"
 }
 
 #musicButton{
