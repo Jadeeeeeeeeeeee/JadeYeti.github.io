@@ -115,10 +115,6 @@ body{
     border-radius: 40px;
 }
 
-#stopMusic:hover{
-    content:"YES YOU STOP THE MUSIC HERE ITS CLEAR"
-}
-
 #musicButton{
     position: absolute;
     right: 30%;
